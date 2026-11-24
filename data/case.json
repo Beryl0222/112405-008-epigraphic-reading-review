@@ -14,7 +14,90 @@
       "id": "EP-3",
       "text": "研究札记：若读作‘周’，或与北岸祭祀记录相关，待核。",
       "kind": "research-note"
+    },
+    {
+      "id": "EP-10",
+      "kind": "catalogue",
+      "text": "器物E12旧号E-12，来自北岸一号坑；E13另为北岸二号坑器物，器形相近。拓片R1与R2都取自E12，不是新器物。"
+    },
+    {
+      "id": "EP-11",
+      "kind": "reading",
+      "text": "释读者甲以R1第6行第3字为舟，认为是舟祭；释读者乙以同位置为周，认为可能为人物姓，均未确定。"
+    },
+    {
+      "id": "EP-12",
+      "kind": "catalogue-entry",
+      "text": "编目条目CAT1把E12和E13置于周氏家族，依据是释读者乙对E12的候选读法及器形比较，不是出土关系已证明。"
+    },
+    {
+      "id": "EP-13",
+      "kind": "research-citation",
+      "text": "研究札记RES1采用CAT1的家族关系推测E13年代，注明暂定；RES2只引用E12北岸一号坑出土信息。"
+    },
+    {
+      "id": "EP-14",
+      "kind": "photo-description",
+      "text": "新照片R3显示第6行第3字左部残笔更清楚，右部仍缺损；并未拍到所述祭祀事件。"
+    },
+    {
+      "id": "EP-15",
+      "kind": "withdrawal",
+      "text": "释读者乙撤回该位置的周字意见，不否定北岸出土记录，也未认可舟字。"
+    },
+    {
+      "id": "EP-16",
+      "kind": "name-note",
+      "text": "另器E14也有周字候选，尚未证明与E12同一人或同一家族。"
+    },
+    {
+      "id": "EP-17",
+      "kind": "reading",
+      "text": "释读者甲把第5行明确可辨字改记为合文，说明不涉及第6行第3字。"
     }
   ],
-  "case_id": "epigraphy-1"
+  "case_id": "epigraphy-1",
+  "context": {
+    "artifacts": [
+      {
+        "id": "E12",
+        "old_ids": [
+          "E-12"
+        ],
+        "rubbings": [
+          "R1",
+          "R2"
+        ]
+      },
+      {
+        "id": "E13"
+      },
+      {
+        "id": "E14"
+      }
+    ],
+    "catalogue": [
+      {
+        "id": "CAT1",
+        "state": "in_use",
+        "source": "EP-12"
+      }
+    ],
+    "citations": [
+      {
+        "id": "RES1",
+        "source": "EP-13",
+        "uses": [
+          "CAT1"
+        ]
+      },
+      {
+        "id": "RES2",
+        "source": "EP-13",
+        "uses": [
+          "EP-10"
+        ]
+      }
+    ]
+  }
 }
