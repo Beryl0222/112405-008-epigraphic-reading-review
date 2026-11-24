@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "id": "EP-1",
+      "text": "拓片第 6 行缺损字暂释‘舟’，右侧残笔也可能为‘周’。",
+      "kind": "reading-note"
+    },
+    {
+      "id": "EP-2",
+      "text": "器号 E-12 与 E12 为同一件器物的旧、新登记号。",
+      "kind": "catalogue-note"
+    },
+    {
+      "id": "EP-3",
+      "text": "研究札记：若读作‘周’，或与北岸祭祀记录相关，待核。",
+      "kind": "research-note"
+    }
+  ],
+  "case_id": "epigraphy-1"
+}
